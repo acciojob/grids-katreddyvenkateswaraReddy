@@ -19,26 +19,26 @@
         }
 
         /* Additional styling for specific columns */
-        .custom-column-5 {
+        .r1c1 {
             background-color: teal;
         }
 
-        .custom-column-6 {
+        .r1c2 {
             background-color: thistle;
         }
 
-        .custom-column-3 {
+        .r2c1 {
             background-color: tomato;
         }
 
-        .custom-column-4 {
+        .r2c2 {
             background-color: turquoise;
         }
 
-        .custom-column-1 {
+        .r3c1 {
             background-color: violet;
         }
 
-        .custom-column-2 {
+        .r3c2 {
             background-color: yellowgreen;
         }
